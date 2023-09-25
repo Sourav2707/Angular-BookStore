@@ -6,7 +6,7 @@
             "price": 10.99,
             "description": "A classic novel by Harper Lee.",
             "category": "electronics",
-            "image": "https://images.penguinrandomhouse.com/cover/9780061120084",
+            "image": "https://epqkkxb65h3.exactdn.com/wp-content/uploads/2023/02/m-2908.jpg",
             "rating": {
               "rate": 4.5,
               "count": 1200
@@ -140,7 +140,7 @@
             "price": 13.49,
             "description": "Aldous Huxley's vision of a future society.",
             "category": "electronics",
-            "image": "https://images.penguinrandomhouse.com/cover/9780060850524",
+            "image": "https://cdn.kobo.com/book-images/6f07a0e9-8ca8-4b28-982c-7898ac591744/1200/1200/False/brave-new-world-79.jpg",
             "rating": {
               "rate": 4.4,
               "count": 1050
@@ -176,7 +176,7 @@
             "price": 11.49,
             "description": "Orson Scott Card's classic tale of young geniuses.",
             "category": "fashion",
-            "image": "https://images.penguinrandomhouse.com/cover/9780812550702",
+            "image": "https://m.media-amazon.com/images/I/81c2Rdl-TXL._AC_UF1000,1000_QL80_.jpg",
             "rating": {
               "rate": 4.7,
               "count": 1500
@@ -188,7 +188,7 @@
             "price": 19.99,
             "description": "Arthur Conan Doyle's timeless detective tales.",
             "category": "jewelery",
-            "image": "https://images.penguinrandomhouse.com/cover/9780553328256",
+            "image": "https://m.media-amazon.com/images/I/91XHDtSt7qL._AC_UF1000,1000_QL80_.jpg",
             "rating": {
               "rate": 4.8,
               "count": 2000
@@ -200,7 +200,7 @@
             "price": 9.99,
             "description": "Another thrilling Sherlock Holmes adventure.",
             "category": "jewelery",
-            "image": "https://images.penguinrandomhouse.com/cover/9780143105439",
+            "image": "https://m.media-amazon.com/images/I/61zatwCfS5L._AC_UF1000,1000_QL80_.jpg",
             "rating": {
               "rate": 4.4,
               "count": 950
