@@ -3,11 +3,19 @@
     width: 600px;
     margin-left: 20px;
 }
-
+.navbar {
+    background-color: rgb(198, 198, 0);
+}
 .search-icon {
     position: absolute;
     z-index: 10;
-    right: 59%;
+    right: 40%;
     top: 20px;
-    color: blue;
+    color: rgb(198, 198, 0);
+}
+.btn {
+    background-color: rgb(198, 198, 0);
+}
+.navbar-brand {
+    margin-left: 20px;
 }

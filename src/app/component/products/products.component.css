@@ -11,7 +11,7 @@
 }
 
 .item img {
-    width: 64px;
+    block-size: 100px;
 }
 
 .item {
@@ -38,4 +38,12 @@
 .card img:hover {
     transition: 0.3s ease-in-out;
     transform: scale(1.1);
+}
+.btn {
+    background-color: rgb(198, 198, 0);
+}
+.container {
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
 }
